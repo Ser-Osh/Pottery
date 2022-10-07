@@ -1,0 +1,17 @@
+@media screen and (max-width: 520px) { 
+
+ .humburger {
+    display: block;
+
+}
+
+.navigation .nav-block.show-menu {
+  position: absolute;
+    display: block;
+    /* background: rgba(8, 8, 8, 0.4); */
+    width: 1145px;
+    top: 113px;
+    margin: 0;
+}
+
+}

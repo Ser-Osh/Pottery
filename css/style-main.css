@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;400;700&display=swap');
+
+
+.pottery {
+    height: 100%;
+    left: 0%;
+    right: 0%;
+    top: 1770px;
+    /*margin-top: 676px;*/
+}
+
+.pottery .container {
+    width: 1170px;
+    height: 100%;
+    margin: auto;
+
+}
+
+.pottery .container .gold-black {
+    width: 388px;
+    height: 225px;
+    top: 100px;
+    float: right;
+    margin: 0;
+}
+
+.pottery .container .gold-black h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+
+    color: #000000;
+}
+
+.pottery .container .gold-black p {
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #6C6C6C;
+}
+
+.pottery .container .gold-black h5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.pottery .container .img {
+    position: relative;
+    height: 220px;
+    width: fit-content;
+    top: 50px;
+    margin: 0 0 0 200px;
+
+}
+
+.pottery .container .img-gb {
+    height: 220px;
+    margin-left: 90px;
+    top: 120px;
+
+}
+
+.pottery-or {
+    height: 100%;
+    top: 180px;
+
+}
+
+.pottery-or .container {
+    position: relative;
+    width: 1170px;
+    height: 100%;
+    top: 150px;
+    margin: auto;
+
+}
+
+.pottery-or .container .orange {
+    position: relative;
+    width: 388px;
+    height: 225px;
+    top: 100px;
+    float: left;
+    margin: 0 0 0 100px;
+}
+
+.pottery-or .container .orange h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+
+    color: #000000;
+}
+
+.pottery-or .container .orange p {
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #6C6C6C;
+}
+
+.pottery-or .container .orange h5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.pottery-or .container .img-rec img {
+    position: relative;
+    float: right;
+    top: 130px;
+
+}
+
+.pottery-or .container .img-or img {
+    position: absolute;
+    float: right;
+    margin-left: 250px;
+    top: 30px;
+}

@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Libre+Franklin&family=Pacifico&family=Poppins&display=swap');
+
+body {
+    margin: 0;
+}
+
+
+.container {
+    width: 1170px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.letes-new {
+    width: 1150px;
+}
+
+.picture {
+    text-align: center;
+}
+
+.letes-new h3 {
+    margin-top: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #D77474;
+}
+
+.half-footer {
+  /*  margin-top: 647px;*/
+}
+
+.title-half-footer {
+    position: relative;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: #000;
+    text-align: center;
+    display: flex;
+    left: calc(50% - 413px);
+    margin-top: 8px;
+
+}
+
+.title-half-footer span img {
+    margin: 30px;
+}
+
+.wrapper {
+    display: table-caption;
+    left: calc(50% - -266px);
+    position: relative;
+}
+
+.point1,
+.point2 {
+    width: 330px;
+    margin-bottom: 10px;
+    padding: 13px 149px 12px 10px;
+    box-sizing: border-box;
+    font-family: 'Lato';
+    border: 1px solid #EBEBEB;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #A1A1A1;
+}
+
+.regist {
+    padding: 13px 7px 12px 7px;
+    background: #e9a804;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-radius: 10px;
+}
+
+.wrapper .regist {
+    left: calc(30% - 100px);
+    width: 330px;
+    position: relative;
+}
+
+.regist:hover {
+    letter-spacing: 1px;
+    padding: 13px 7px 12px 7px;
+    text-transform: uppercase;
+    background: #fff;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    color: #e9a804;
+}
+
+.container-footer {
+    /* width: 1200px;*/
+
+}
+
+.title-footer {
+    margin-top: 329px;
+
+}
+
+.title-footer h1 {
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 40px;
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+}
+
+
+.title-p p {
+    margin-top: 30px;
+    font-family: 'Libre Franklin';
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #6C6C6C;
+    height: 24px;
+}
+
+.contacts {
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    align-items: center;
+}
+
+.email {
+    margin-right: 240px;
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.find {
+    margin-right: 240px;
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.footer-under {
+    margin-top: 123px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(219, 219, 219, 0.1);
+    border-top: 1px solid rgba(49, 45, 45, 0.1);
+    ;
+
+
+}
+
+.p1 {
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    margin-right: 2px;
+}
+
+.p2 {
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    margin-right: 2px;
+    color: #000;
+}
+
+.footer-under span {
+    margin-left: 2px;
+    margin-right: 2px;
+}
